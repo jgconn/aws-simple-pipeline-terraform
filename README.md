@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://registry.terraform.io/providers/hashicorp/aws/latest/docs">
-    <img src="./Images/terraform-logo.png" alt="Logo" height="80">
+    <img src="./images/terraform-logo.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">AWS simple data pipeline with Terraform</h3>
@@ -18,7 +18,7 @@
 
 ## About The Project
 <div align="center">
-    <img src="./Images/diagram-header.png" alt="AWS Diagram" />
+    <img src="./images/diagram-header.png" alt="AWS Diagram" />
 </div>
 
 This project uses Terraform to set up a simple serverless data pipeline. 
