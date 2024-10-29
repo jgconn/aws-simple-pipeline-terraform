@@ -262,6 +262,10 @@ Below is the template Terraform directory for this mini project:
 ```
 project-root/
 │
+├── dummy_data/
+│   ├── dummy_data.json 
+│   └── ...
+│
 ├── lambda/
 │   ├── module1/
 │   │── lambda.py   
